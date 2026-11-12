@@ -1,0 +1,138 @@
+{
+  "_about": "Evaluation set for the Tax Document Q&A (RAG) module. expected_file = source PDF in ingest/data; expected_pages = 1-based physical PDF pages where the answer is stated (verified by reading the PDF). Out-of-scope questions have no expected source and should be refused.",
+  "questions": [
+    {
+      "id": "q01",
+      "question": "Is a foreign employee who works in Malaysia for less than 60 days taxed on their employment income?",
+      "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+      "expected_pages": [10, 11],
+      "answer_notes": "Exempt if employment period in Malaysia does not exceed 60 days (para 21, Schedule 6 ITA).",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q02",
+      "question": "What tax rate applies to a foreign national who is not tax resident in Malaysia?",
+      "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+      "expected_pages": [9, 10],
+      "answer_notes": "Section 4.5: residents taxed at scale rates with reliefs; non-residents at a flat rate without reliefs.",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q03",
+      "question": "What is the maximum value of each asset that qualifies for the small value asset special allowance?",
+      "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+      "expected_pages": [6, 7],
+      "answer_notes": "Each asset must not exceed RM2,000.",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q04",
+      "question": "Can I claim the special allowance for small value assets bought on hire purchase?",
+      "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+      "expected_pages": [13],
+      "answer_notes": "No — section 13: special allowances do not apply to assets acquired on hire purchase; normal capital allowance instead.",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q05",
+      "question": "What does PR No. 4/2026 say about hire purchase?",
+      "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+      "expected_pages": [13],
+      "answer_notes": "Same fact as q04, but asked by ruling number — tests identifier matching (known weakness of dense retrieval).",
+      "tags": ["public_ruling", "identifier"]
+    },
+    {
+      "id": "q06",
+      "question": "How much tax relief can I claim for a child under 18?",
+      "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+      "expected_pages": [58, 59],
+      "answer_notes": "RM2,000 per child under 18 (section 6.20).",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q07",
+      "question": "What purchases qualify for lifestyle relief?",
+      "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+      "expected_pages": [36, 37],
+      "answer_notes": "Section 6.11: books/journals/magazines/newspapers, personal computer/smartphone/tablet, internet subscription, skills courses.",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q08",
+      "question": "What conditions must be met to claim tax relief for breastfeeding equipment?",
+      "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+      "expected_pages": [38, 39],
+      "answer_notes": "Section 6.12.3: breastfeeding mother, child up to 2 years, equipment for own use, receipts.",
+      "tags": ["public_ruling"]
+    },
+    {
+      "id": "q09",
+      "question": "How long does a buyer have to reject an e-invoice after it has been validated?",
+      "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+      "expected_pages": [25, 26],
+      "answer_notes": "Within 72 hours from validation, via MyInvois Portal.",
+      "tags": ["e_invoice"]
+    },
+    {
+      "id": "q10",
+      "question": "When must businesses with annual turnover between RM5 million and RM25 million start issuing e-invoices?",
+      "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+      "expected_pages": [12, 13],
+      "answer_notes": "1 July 2025.",
+      "tags": ["e_invoice"]
+    },
+    {
+      "id": "q11",
+      "question": "How much service tax is charged on a credit card?",
+      "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+      "expected_pages": [8, 9],
+      "answer_notes": "RM25 per card on activation and every 12 months thereafter.",
+      "tags": ["sst"]
+    },
+    {
+      "id": "q12",
+      "question": "Is service tax charged on financial services imported from a foreign provider?",
+      "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+      "expected_pages": [12, 13],
+      "answer_notes": "Imported taxable financial services section (paragraph 28 onwards).",
+      "tags": ["sst"]
+    },
+    {
+      "id": "q13",
+      "question": "Which private education providers are subject to service tax from 1 July 2025?",
+      "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+      "expected_pages": [14],
+      "answer_notes": "Paragraph 22: private playschools, kindergartens, primary and secondary schools, tuition and learning centres, international and expatriate schools.",
+      "tags": ["sst"]
+    },
+    {
+      "id": "q14",
+      "question": "Do Malaysian students pay service tax on private university fees?",
+      "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+      "expected_pages": [11, 12],
+      "answer_notes": "No — higher education is taxed only for non-Malaysian students.",
+      "tags": ["sst"]
+    },
+    {
+      "id": "o01",
+      "question": "What is the GST rate in Singapore?",
+      "expected_file": null,
+      "answer_notes": "Out of scope, tax-related (near-domain).",
+      "tags": ["out_of_scope", "near_domain"]
+    },
+    {
+      "id": "o02",
+      "question": "How do I calculate real property gains tax when I sell my house?",
+      "expected_file": null,
+      "answer_notes": "Out of scope, Malaysian tax but not in these documents (near-domain).",
+      "tags": ["out_of_scope", "near_domain"]
+    },
+    {
+      "id": "o03",
+      "question": "What is the best recipe for nasi lemak?",
+      "expected_file": null,
+      "answer_notes": "Out of scope, unrelated.",
+      "tags": ["out_of_scope", "far_domain"]
+    }
+  ]
+}

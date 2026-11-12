@@ -1,0 +1,1147 @@
+[
+  {
+    "id": "q01",
+    "question": "Is a foreign employee who works in Malaysia for less than 60 days taxed on their employment income?",
+    "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+    "expected_pages": [
+      10,
+      11
+    ],
+    "answer_notes": "Exempt if employment period in Malaysia does not exceed 60 days (para 21, Schedule 6 ITA).",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          11,
+          11
+        ],
+        "section": "4.6.1 Period of employment not exceeding 60 days",
+        "similarity": 0.9227
+      },
+      {
+        "rank": 2,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          16,
+          16
+        ],
+        "section": "4.6.2 Period of employment exceeding 60 days",
+        "similarity": 0.9224
+      },
+      {
+        "rank": 3,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          10,
+          10
+        ],
+        "section": "4.6.1 Period of employment not exceeding 60 days",
+        "similarity": 0.921
+      },
+      {
+        "rank": 4,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          16,
+          17
+        ],
+        "section": "4.6.2 Period of employment exceeding 60 days",
+        "similarity": 0.9196
+      },
+      {
+        "rank": 5,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          15,
+          15
+        ],
+        "section": "4.6.1 Period of employment not exceeding 60 days",
+        "similarity": 0.9186
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9227
+  },
+  {
+    "id": "q02",
+    "question": "What tax rate applies to a foreign national who is not tax resident in Malaysia?",
+    "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+    "expected_pages": [
+      9,
+      10
+    ],
+    "answer_notes": "Section 4.5: residents taxed at scale rates with reliefs; non-residents at a flat rate without reliefs.",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          9,
+          10
+        ],
+        "section": "4.5 Tax rates",
+        "similarity": 0.9253
+      },
+      {
+        "rank": 2,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          21,
+          21
+        ],
+        "section": "8.4 Income Tax (Exemption) (No. 3) Order 2012 [ P.U.(A) 184/2012 ]",
+        "similarity": 0.8945
+      },
+      {
+        "rank": 3,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          9,
+          9
+        ],
+        "section": "4.4 Residence status in Malaysia",
+        "similarity": 0.8913
+      },
+      {
+        "rank": 4,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          19,
+          19
+        ],
+        "section": "6. Bilateral Credit",
+        "similarity": 0.8869
+      },
+      {
+        "rank": 5,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          18,
+          19
+        ],
+        "section": "6. Bilateral Credit",
+        "similarity": 0.8837
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9253
+  },
+  {
+    "id": "q03",
+    "question": "What is the maximum value of each asset that qualifies for the small value asset special allowance?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      6,
+      7
+    ],
+    "answer_notes": "Each asset must not exceed RM2,000.",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          7,
+          7
+        ],
+        "section": "6. Option to Claim Special Allowances for Small Value Assets",
+        "similarity": 0.9293
+      },
+      {
+        "rank": 2,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          5,
+          5
+        ],
+        "section": "4. Introduction",
+        "similarity": 0.9264
+      },
+      {
+        "rank": 3,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          6,
+          6
+        ],
+        "section": "6. Option to Claim Special Allowances for Small Value Assets",
+        "similarity": 0.9194
+      },
+      {
+        "rank": 4,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          7,
+          7
+        ],
+        "section": "6. Option to Claim Special Allowances for Small Value Assets",
+        "similarity": 0.9179
+      },
+      {
+        "rank": 5,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          10,
+          11
+        ],
+        "section": "9. Steps to Claim Special Allowances",
+        "similarity": 0.9177
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9293
+  },
+  {
+    "id": "q04",
+    "question": "Can I claim the special allowance for small value assets bought on hire purchase?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      13
+    ],
+    "answer_notes": "No — section 13: special allowances do not apply to assets acquired on hire purchase; normal capital allowance instead.",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          13,
+          13
+        ],
+        "section": "12. Person Not Eligible to Claim Special Allowances",
+        "similarity": 0.9338
+      },
+      {
+        "rank": 2,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          12,
+          13
+        ],
+        "section": "9. Steps to Claim Special Allowances",
+        "similarity": 0.9105
+      },
+      {
+        "rank": 3,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          8,
+          8
+        ],
+        "section": "6. Option to Claim Special Allowances for Small Value Assets",
+        "similarity": 0.9073
+      },
+      {
+        "rank": 4,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          3,
+          3
+        ],
+        "section": "CONTENTS PAGE",
+        "similarity": 0.906
+      },
+      {
+        "rank": 5,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          5,
+          6
+        ],
+        "section": "6. Option to Claim Special Allowances for Small Value Assets",
+        "similarity": 0.9037
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9338
+  },
+  {
+    "id": "q05",
+    "question": "What does PR No. 4/2026 say about hire purchase?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      13
+    ],
+    "answer_notes": "Same fact as q04, but asked by ruling number — tests identifier matching (known weakness of dense retrieval).",
+    "tags": [
+      "public_ruling",
+      "identifier"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          13,
+          13
+        ],
+        "section": "12. Person Not Eligible to Claim Special Allowances",
+        "similarity": 0.851
+      },
+      {
+        "rank": 2,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          9,
+          9
+        ],
+        "section": "4.3 Basis of assessment of employment income",
+        "similarity": 0.845
+      },
+      {
+        "rank": 3,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          13,
+          14
+        ],
+        "section": "4.6.1 Period of employment not exceeding 60 days",
+        "similarity": 0.8444
+      },
+      {
+        "rank": 4,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          22,
+          22
+        ],
+        "section": "11. Amendments and Updates",
+        "similarity": 0.8441
+      },
+      {
+        "rank": 5,
+        "file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+        "pages": [
+          21,
+          22
+        ],
+        "section": "9. Filing of Income Tax Return Forms",
+        "similarity": 0.8404
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.851
+  },
+  {
+    "id": "q06",
+    "question": "How much tax relief can I claim for a child under 18?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      58,
+      59
+    ],
+    "answer_notes": "RM2,000 per child under 18 (section 6.20).",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          58,
+          58
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.8758
+      },
+      {
+        "rank": 2,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          69,
+          70
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.8717
+      },
+      {
+        "rank": 3,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          56,
+          56
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.8712
+      },
+      {
+        "rank": 4,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          56,
+          57
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.8692
+      },
+      {
+        "rank": 5,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          57,
+          58
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.8682
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.8758
+  },
+  {
+    "id": "q07",
+    "question": "What purchases qualify for lifestyle relief?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      36,
+      37
+    ],
+    "answer_notes": "Section 6.11: books/journals/magazines/newspapers, personal computer/smartphone/tablet, internet subscription, skills courses.",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          37,
+          37
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.8847
+      },
+      {
+        "rank": 2,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          36,
+          36
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.8819
+      },
+      {
+        "rank": 3,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          37,
+          38
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.8704
+      },
+      {
+        "rank": 4,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          36,
+          36
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.8698
+      },
+      {
+        "rank": 5,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          38,
+          38
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.8667
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.8847
+  },
+  {
+    "id": "q08",
+    "question": "What conditions must be met to claim tax relief for breastfeeding equipment?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      38,
+      39
+    ],
+    "answer_notes": "Section 6.12.3: breastfeeding mother, child up to 2 years, equipment for own use, receipts.",
+    "tags": [
+      "public_ruling"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          38,
+          39
+        ],
+        "section": "6.12 Purchase of breastfeeding equipment",
+        "similarity": 0.9168
+      },
+      {
+        "rank": 2,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          39,
+          39
+        ],
+        "section": "6.12 Purchase of breastfeeding equipment",
+        "similarity": 0.9123
+      },
+      {
+        "rank": 3,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          39,
+          40
+        ],
+        "section": "6.12 Purchase of breastfeeding equipment",
+        "similarity": 0.9024
+      },
+      {
+        "rank": 4,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          40,
+          40
+        ],
+        "section": "6.12 Purchase of breastfeeding equipment",
+        "similarity": 0.9018
+      },
+      {
+        "rank": 5,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          38,
+          38
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.9004
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9168
+  },
+  {
+    "id": "q09",
+    "question": "How long does a buyer have to reject an e-invoice after it has been validated?",
+    "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+    "expected_pages": [
+      25,
+      26
+    ],
+    "answer_notes": "Within 72 hours from validation, via MyInvois Portal.",
+    "tags": [
+      "e_invoice"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          26,
+          26
+        ],
+        "section": "2.3.6 Step 5, 6 and 7 – Rejection or Cancellation",
+        "similarity": 0.9244
+      },
+      {
+        "rank": 2,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          34,
+          34
+        ],
+        "section": "2.4.5 Step 4, 5 and 6 – Rejection and Cancellation",
+        "similarity": 0.9213
+      },
+      {
+        "rank": 3,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          25,
+          26
+        ],
+        "section": "2.3.6 Step 5, 6 and 7 – Rejection or Cancellation",
+        "similarity": 0.9139
+      },
+      {
+        "rank": 4,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          33,
+          33
+        ],
+        "section": "2.4.4 Step 3 – Sharing of e-Invoice / visual representation",
+        "similarity": 0.9116
+      },
+      {
+        "rank": 5,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          33,
+          34
+        ],
+        "section": "2.4.5 Step 4, 5 and 6 – Rejection and Cancellation",
+        "similarity": 0.9095
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9244
+  },
+  {
+    "id": "q10",
+    "question": "When must businesses with annual turnover between RM5 million and RM25 million start issuing e-invoices?",
+    "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+    "expected_pages": [
+      12,
+      13
+    ],
+    "answer_notes": "1 July 2025.",
+    "tags": [
+      "e_invoice"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          14,
+          14
+        ],
+        "section": "1.4 Scenarios and Types of e-Invoices",
+        "similarity": 0.9263
+      },
+      {
+        "rank": 2,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          12,
+          13
+        ],
+        "section": "1.4 Scenarios and Types of e-Invoices",
+        "similarity": 0.9249
+      },
+      {
+        "rank": 3,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          14,
+          15
+        ],
+        "section": "1.4 Scenarios and Types of e-Invoices",
+        "similarity": 0.916
+      },
+      {
+        "rank": 4,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          13,
+          13
+        ],
+        "section": "1.4 Scenarios and Types of e-Invoices",
+        "similarity": 0.9045
+      },
+      {
+        "rank": 5,
+        "file": "IRBM-e-Invoice-Guideline.pdf",
+        "pages": [
+          12,
+          12
+        ],
+        "section": "1.4 Scenarios and Types of e-Invoices",
+        "similarity": 0.8941
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 2,
+    "top_score": 0.9263
+  },
+  {
+    "id": "q11",
+    "question": "How much service tax is charged on a credit card?",
+    "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+    "expected_pages": [
+      8,
+      9
+    ],
+    "answer_notes": "RM25 per card on activation and every 12 months thereafter.",
+    "tags": [
+      "sst"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          24,
+          25
+        ],
+        "section": "ONLINE PAYMENT PROCESS FLOW",
+        "similarity": 0.8674
+      },
+      {
+        "rank": 2,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          8,
+          9
+        ],
+        "section": "REGISTRATION THRESHOLD",
+        "similarity": 0.8666
+      },
+      {
+        "rank": 3,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          38,
+          38
+        ],
+        "section": "SERVICES WITHOUT CHARGE",
+        "similarity": 0.8584
+      },
+      {
+        "rank": 4,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          19,
+          19
+        ],
+        "section": "FINANCIAL SERVICES OR CHARGES THAT ARE NOT SUBJECT TO SERVICES TAX",
+        "similarity": 0.8548
+      },
+      {
+        "rank": 5,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          17,
+          18
+        ],
+        "section": "FINANCIAL SERVICES OR CHARGES THAT ARE NOT SUBJECT TO SERVICES TAX",
+        "similarity": 0.8536
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 2,
+    "top_score": 0.8674
+  },
+  {
+    "id": "q12",
+    "question": "Is service tax charged on financial services imported from a foreign provider?",
+    "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+    "expected_pages": [
+      12,
+      13
+    ],
+    "answer_notes": "Imported taxable financial services section (paragraph 28 onwards).",
+    "tags": [
+      "sst"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          12,
+          12
+        ],
+        "section": "IMPORTED SERVICES",
+        "similarity": 0.9115
+      },
+      {
+        "rank": 2,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          12,
+          13
+        ],
+        "section": "IMPORTED SERVICES",
+        "similarity": 0.9079
+      },
+      {
+        "rank": 3,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          23,
+          24
+        ],
+        "section": "ONLINE PAYMENT PROCESS FLOW",
+        "similarity": 0.8986
+      },
+      {
+        "rank": 4,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          43,
+          44
+        ],
+        "section": "REGISTRATION AND RETURN SUBMISSION",
+        "similarity": 0.8934
+      },
+      {
+        "rank": 5,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          12,
+          12
+        ],
+        "section": "TAXABLE SERVICES",
+        "similarity": 0.8929
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9115
+  },
+  {
+    "id": "q13",
+    "question": "Which private education providers are subject to service tax from 1 July 2025?",
+    "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+    "expected_pages": [
+      14
+    ],
+    "answer_notes": "Paragraph 22: private playschools, kindergartens, primary and secondary schools, tuition and learning centres, international and expatriate schools.",
+    "tags": [
+      "sst"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          19,
+          20
+        ],
+        "section": "REGISTRATION AND RESPONSIBILITIES OF REGISTERED PERSONS",
+        "similarity": 0.9265
+      },
+      {
+        "rank": 2,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          25,
+          26
+        ],
+        "section": "TRANSITIONAL ISSUES",
+        "similarity": 0.9218
+      },
+      {
+        "rank": 3,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          13,
+          14
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.9191
+      },
+      {
+        "rank": 4,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          18,
+          19
+        ],
+        "section": "REGISTRATION AND RESPONSIBILITIES OF REGISTERED PERSONS",
+        "similarity": 0.9167
+      },
+      {
+        "rank": 5,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          11,
+          11
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.9139
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 3,
+    "top_score": 0.9265
+  },
+  {
+    "id": "q14",
+    "question": "Do Malaysian students pay service tax on private university fees?",
+    "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+    "expected_pages": [
+      11,
+      12
+    ],
+    "answer_notes": "No — higher education is taxed only for non-Malaysian students.",
+    "tags": [
+      "sst"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          10,
+          11
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.9379
+      },
+      {
+        "rank": 2,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          13,
+          14
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.9375
+      },
+      {
+        "rank": 3,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          23,
+          24
+        ],
+        "section": "TRANSITIONAL ISSUES",
+        "similarity": 0.9368
+      },
+      {
+        "rank": 4,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          11,
+          12
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.934
+      },
+      {
+        "rank": 5,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          24,
+          24
+        ],
+        "section": "TRANSITIONAL ISSUES",
+        "similarity": 0.9337
+      }
+    ],
+    "doc_rank": 1,
+    "page_rank": 1,
+    "top_score": 0.9379
+  },
+  {
+    "id": "o01",
+    "question": "What is the GST rate in Singapore?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, tax-related (near-domain).",
+    "tags": [
+      "out_of_scope",
+      "near_domain"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          44,
+          45
+        ],
+        "section": "6.15 Additional tax relief for lifestyle-related sports activity",
+        "similarity": 0.8458
+      },
+      {
+        "rank": 2,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          23,
+          24
+        ],
+        "section": "ONLINE PAYMENT PROCESS FLOW",
+        "similarity": 0.8363
+      },
+      {
+        "rank": 3,
+        "file": "Guide On Financial Service  -  Version 2.pdf",
+        "pages": [
+          34,
+          34
+        ],
+        "section": "EXEMPTION FROM PAYMENT OF SERVICE TAX",
+        "similarity": 0.8357
+      },
+      {
+        "rank": 4,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          13,
+          14
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.8336
+      },
+      {
+        "rank": 5,
+        "file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+        "pages": [
+          12,
+          13
+        ],
+        "section": "IMPOSITION OF SERVICE TAX",
+        "similarity": 0.8275
+      }
+    ],
+    "doc_rank": null,
+    "page_rank": null,
+    "top_score": 0.8458
+  },
+  {
+    "id": "o02",
+    "question": "How do I calculate real property gains tax when I sell my house?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, Malaysian tax but not in these documents (near-domain).",
+    "tags": [
+      "out_of_scope",
+      "near_domain"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          49,
+          49
+        ],
+        "section": "6.17 Deduction for interest payment on the first residential housing loan",
+        "similarity": 0.8093
+      },
+      {
+        "rank": 2,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          52,
+          53
+        ],
+        "section": "6.17 Deduction for interest payment on the first residential housing loan",
+        "similarity": 0.8038
+      },
+      {
+        "rank": 3,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          51,
+          51
+        ],
+        "section": "6.17 Deduction for interest payment on the first residential housing loan",
+        "similarity": 0.802
+      },
+      {
+        "rank": 4,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          53,
+          53
+        ],
+        "section": "6.17 Deduction for interest payment on the first residential housing loan",
+        "similarity": 0.7991
+      },
+      {
+        "rank": 5,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          51,
+          52
+        ],
+        "section": "6.17 Deduction for interest payment on the first residential housing loan",
+        "similarity": 0.799
+      }
+    ],
+    "doc_rank": null,
+    "page_rank": null,
+    "top_score": 0.8093
+  },
+  {
+    "id": "o03",
+    "question": "What is the best recipe for nasi lemak?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, unrelated.",
+    "tags": [
+      "out_of_scope",
+      "far_domain"
+    ],
+    "retrieved": [
+      {
+        "rank": 1,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          64,
+          65
+        ],
+        "section": "6.20 Deduction for children",
+        "similarity": 0.7652
+      },
+      {
+        "rank": 2,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          42,
+          42
+        ],
+        "section": "6.13 Child care centre and kindergarten fees",
+        "similarity": 0.7646
+      },
+      {
+        "rank": 3,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          38,
+          38
+        ],
+        "section": "6.11 Lifestyle relief",
+        "similarity": 0.7643
+      },
+      {
+        "rank": 4,
+        "file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+        "pages": [
+          9,
+          9
+        ],
+        "section": "9. Steps to Claim Special Allowances",
+        "similarity": 0.7643
+      },
+      {
+        "rank": 5,
+        "file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+        "pages": [
+          47,
+          48
+        ],
+        "section": "6.15 Additional tax relief for lifestyle-related sports activity",
+        "similarity": 0.7639
+      }
+    ],
+    "doc_rank": null,
+    "page_rank": null,
+    "top_score": 0.7652
+  }
+]

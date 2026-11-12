@@ -1,0 +1,409 @@
+[
+  {
+    "id": "q01",
+    "question": "Is a foreign employee who works in Malaysia for less than 60 days taxed on their employment income?",
+    "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+    "expected_pages": [
+      10,
+      11
+    ],
+    "answer_notes": "Exempt if employment period in Malaysia does not exceed 60 days (para 21, Schedule 6 ITA).",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.6-flash",
+    "answer": "A foreign employee whose period of employment in Malaysia does not exceed 60 days is generally exempted from tax on their employment income [1][4][5]. Under paragraph 21 of Schedule 6 of the ITA, this 60-day limit refers to the total period of employment in Malaysia rather than physical presence [3]. However, the employee will not qualify for the tax exemption if their total employment periods in Malaysia (including multiple stints, employment across different employers, or periods performing incidental duties outside Malaysia) exceed 60 days in a year of assessment [1][2][3].",
+    "cited_titles": [
+      "Public Ruling No. 2/2026: Tax Treatment of Foreign Nationals Exercising Employment in Malaysia"
+    ],
+    "seconds": 9.1,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash"
+    ]
+  },
+  {
+    "id": "q02",
+    "question": "What tax rate applies to a foreign national who is not tax resident in Malaysia?",
+    "expected_file": "pr-2-2026-tax-treatment-of-foreign-nationals-exercising-employment-in-malaysia.pdf",
+    "expected_pages": [
+      9,
+      10
+    ],
+    "answer_notes": "Section 4.5: residents taxed at scale rates with reliefs; non-residents at a flat rate without reliefs.",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash",
+    "answer": "A foreign national who is not a tax resident in Malaysia is subject to income tax at a flat rate of 30% on every ringgit of their chargeable income, as specified in paragraph 1A, Part 1 of Schedule 1 to the Income Tax Act (ITA) [1]. They are not entitled to claim any personal tax reliefs [1]. However, special tax rates apply for an individual under certain incentives as specified in Part XIV and XVIII of Schedule 1 to the ITA [1].",
+    "cited_titles": [
+      "Public Ruling No. 2/2026: Tax Treatment of Foreign Nationals Exercising Employment in Malaysia"
+    ],
+    "seconds": 7.5,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash",
+      "gemini-3.6-flash unavailable, fell back to next model"
+    ]
+  },
+  {
+    "id": "q03",
+    "question": "What is the maximum value of each asset that qualifies for the small value asset special allowance?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      6,
+      7
+    ],
+    "answer_notes": "Each asset must not exceed RM2,000.",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash",
+    "answer": "Effective from the Year of Assessment (YA) 2020, subparagraph 19A(1) of Schedule 3 of the ITA provides that the value of each small value asset does not exceed RM2,000 [5]. There have been changes in the value of small value assets across YAs [1]; for instance, from YA 2006 to YA 2008, the stated threshold was not exceeding 1,000 [3] (complete figures for YA 2009 to YA 2019 are not fully provided in the excerpts [3][5]).",
+    "cited_titles": [
+      "Public Ruling No. 4/2026: Special Allowances for Small Value Assets"
+    ],
+    "seconds": 6.2,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash"
+    ]
+  },
+  {
+    "id": "q04",
+    "question": "Can I claim the special allowance for small value assets bought on hire purchase?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      13
+    ],
+    "answer_notes": "No — section 13: special allowances do not apply to assets acquired on hire purchase; normal capital allowance instead.",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash",
+    "answer": "No, special allowances under paragraph 19A of Schedule 3 of the ITA are not applicable to small value assets acquired on hire purchase [1]. However, a person can make a normal capital allowance claim under paragraphs 10 and 15 of Schedule 3 of the ITA for such small value assets [1].",
+    "cited_titles": [
+      "Public Ruling No. 4/2026: Special Allowances for Small Value Assets"
+    ],
+    "seconds": 5.4,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash"
+    ]
+  },
+  {
+    "id": "q05",
+    "question": "What does PR No. 4/2026 say about hire purchase?",
+    "expected_file": "PR-No.4_2026-Special-Allowances-For-Small-Value-Assets.pdf",
+    "expected_pages": [
+      13
+    ],
+    "answer_notes": "Same fact as q04, but asked by ruling number — tests identifier matching (known weakness of dense retrieval).",
+    "tags": [
+      "public_ruling",
+      "identifier"
+    ],
+    "http": 200,
+    "status": "not_found",
+    "reason": "llm_declined",
+    "model": "gemini-3.5-flash",
+    "answer": "The provided documents do not contain information about PR No. 4/2026 or hire purchase.",
+    "cited_titles": [],
+    "seconds": 3.7,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash"
+    ]
+  },
+  {
+    "id": "q06",
+    "question": "How much tax relief can I claim for a child under 18?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      58,
+      59
+    ],
+    "answer_notes": "RM2,000 per child under 18 (section 6.20).",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash",
+    "answer": "The allowable tax deduction for a child who is under 18 years of age is RM2,000 [1]. \n\nHowever, if two or more individuals are entitled to claim a deduction for payments in respect of the same child, the deduction allowed to each individual is 50% of the allowable deduction (i.e., RM1,000) [1].",
+    "cited_titles": [
+      "Public Ruling No. 5/2026: Taxation of a Resident Individual Part I - Gifts or Contributions and Allowable Deductions"
+    ],
+    "seconds": 7.8,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash"
+    ]
+  },
+  {
+    "id": "q07",
+    "question": "What purchases qualify for lifestyle relief?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      36,
+      37
+    ],
+    "answer_notes": "Section 6.11: books/journals/magazines/newspapers, personal computer/smartphone/tablet, internet subscription, skills courses.",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "Under paragraph 46(1)(p) of the ITA, lifestyle relief includes expenses for the purchase of books, e-books, and newspapers [2], the purchase of a laptop or smartphone [1][2], payment of monthly internet subscription bills [2], and payment of self-enrichment course fees (such as courses related to hobbies, religion, or languages) attended by the individual [2]. Effective from YA 2024, self-enrichment course fees are included, provided they are not courses under subparagraph 46(1)(f)(iii) of the ITA [2].",
+    "cited_titles": [
+      "Public Ruling No. 5/2026: Taxation of a Resident Individual Part I - Gifts or Contributions and Allowable Deductions"
+    ],
+    "seconds": 11.3,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash",
+      "gemini-3.5-flash unavailable, fell back to next model"
+    ]
+  },
+  {
+    "id": "q08",
+    "question": "What conditions must be met to claim tax relief for breastfeeding equipment?",
+    "expected_file": "20261104-PR-5_Taxation-Of-A-Resident-Individualpart-I-Gifts-Or-Contributions-And-Allowable-Deductions.pdf",
+    "expected_pages": [
+      38,
+      39
+    ],
+    "answer_notes": "Section 6.12.3: breastfeeding mother, child up to 2 years, equipment for own use, receipts.",
+    "tags": [
+      "public_ruling"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "To claim a tax deduction for breastfeeding equipment, the individual must meet the following conditions: (a) be an exclusive working woman and a breastfeeding mother [2]; (b) breastfeed her child aged up to 2 years [1][2]; (c) expend money on the purchase of breastfeeding equipment for her own use [1][2]; (d) make a claim evidenced by receipts issued for the purchase [1]; (e) make the claim for equipment that qualifies, which includes a breast pump kit, an ice pack, breast milk collection and storage equipment, and a cooler set or cooler bag [1]; (f) the deduction is limited to a maximum of RM1,000 expended in that basis year and is allowed once in every two YAs [2]; and (g) in the case of a combined assessment, the deduction is allowed where the assessment is made in the name of the wife [1][3].",
+    "cited_titles": [
+      "Public Ruling No. 5/2026: Taxation of a Resident Individual Part I - Gifts or Contributions and Allowable Deductions"
+    ],
+    "seconds": 2.6,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash"
+    ]
+  },
+  {
+    "id": "q09",
+    "question": "How long does a buyer have to reject an e-invoice after it has been validated?",
+    "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+    "expected_pages": [
+      25,
+      26
+    ],
+    "answer_notes": "Within 72 hours from validation, via MyInvois Portal.",
+    "tags": [
+      "e_invoice"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "A buyer is able to request a rejection of an e-invoice within 72 hours from the time of validation [1][3].",
+    "cited_titles": [
+      "e-Invoice Guideline (Version 4.8)"
+    ],
+    "seconds": 1.9,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "When must businesses with annual turnover between RM5 million and RM25 million start issuing e-invoices?",
+    "expected_file": "IRBM-e-Invoice-Guideline.pdf",
+    "expected_pages": [
+      12,
+      13
+    ],
+    "answer_notes": "1 July 2025.",
+    "tags": [
+      "e_invoice"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "Taxpayers with an annual turnover or revenue of more than RM5 million and up to RM25 million must start issuing e-invoices on 1 July 2025 [1].",
+    "cited_titles": [
+      "e-Invoice Guideline (Version 4.8)"
+    ],
+    "seconds": 5.6,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "How much service tax is charged on a credit card?",
+    "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+    "expected_pages": [
+      8,
+      9
+    ],
+    "answer_notes": "RM25 per card on activation and every 12 months thereafter.",
+    "tags": [
+      "sst"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "For the provision of a credit line facility or shariah compliance financing services through the activation or renewal of a primary credit card, primary charge card, supplementary credit card, or supplementary charge card, the service tax rate is RM25.00 for each card, applicable on the date the card is activated and every 12 months thereafter or part thereof after the card is activated [1]. Additionally, annual fees related to credit line facility services or shariah-compliant financing through the activation or renewal of a primary or additional credit or charge card are excluded from service tax [4].",
+    "cited_titles": [
+      "Service Tax Guide on Financial Services (Version 2)"
+    ],
+    "seconds": 26.2,
+    "warnings": [
+      "skipped recently failing: gemini-3.6-flash, gemini-3.5-flash",
+      "gemini-3.8-flash unavailable, fell back to next model"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Is service tax charged on financial services imported from a foreign provider?",
+    "expected_file": "Guide On Financial Service  -  Version 2.pdf",
+    "expected_pages": [
+      12,
+      13
+    ],
+    "answer_notes": "Imported taxable financial services section (paragraph 28 onwards).",
+    "tags": [
+      "sst"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "A foreign service provider that provides financial services to a recipient in Malaysia is not required to charge service tax [1][2]. Instead, the responsibility for the tax is shifted to the recipient in Malaysia, who is obligated to account for and pay service tax on the imported taxable services if the services are used for the purpose of any business carried on by them and the services are taxable when made in Malaysia [1]. Additionally, services provided by a financial service provider from overseas to businesses in Designated Areas (DA) or Special Areas (SA) are also subject to service tax [3]. Registered financial service providers acquiring financial services from abroad are eligible for tax exemption if they meet specified conditions, and financial service providers in Labuan are exempted from payment of service tax on imported services subject to fulfilling conditions [2][3].",
+    "cited_titles": [
+      "Service Tax Guide on Financial Services (Version 2)"
+    ],
+    "seconds": 20.8,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.5-flash",
+      "gemini-3.6-flash unavailable, fell back to next model"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "Which private education providers are subject to service tax from 1 July 2025?",
+    "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+    "expected_pages": [
+      14
+    ],
+    "answer_notes": "Paragraph 22: private playschools, kindergartens, primary and secondary schools, tuition and learning centres, international and expatriate schools.",
+    "tags": [
+      "sst"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "Private education providers subject to service tax from 1 July 2025 include: (1) Private educational institutions registered under the Education Act 1996 (excluding special schools and language centres) that provide pre-school, primary, lower secondary, upper secondary, or post-secondary education services and charge fees exceeding RM60,000 per student for each academic year, which covers private playschools, private kindergartens, private primary schools, private secondary schools, tuition centres, learning centres, international schools, expatriate schools, religious primary/secondary schools, and Chinese private secondary schools [1][2]; (2) Higher education institutions registered under the Universities and University Colleges Act 1971, private higher education institutions registered under the Private Higher Educational Institutional Act 1996, and higher education institutions or teacher education institutes registered under the Education Act 1996 that provide education services to non-Malaysian citizens [1][2]; and (3) Language centres registered under the Education Act 1996 that provide services to non-citizen students [2][3].",
+    "cited_titles": [
+      "Service Tax Guide on Private Education Services"
+    ],
+    "seconds": 21.0,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash",
+      "gemini-3.5-flash unavailable, fell back to next model"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Do Malaysian students pay service tax on private university fees?",
+    "expected_file": "3. GUIDE ON PRIVATE EDUCATION SERVICES.pdf",
+    "expected_pages": [
+      11,
+      12
+    ],
+    "answer_notes": "No — higher education is taxed only for non-Malaysian students.",
+    "tags": [
+      "sst"
+    ],
+    "http": 200,
+    "status": "answered",
+    "reason": null,
+    "model": "gemini-3.5-flash-lite",
+    "answer": "No, the provision of education services to Malaysian citizens pursuing studies at private higher education institutions is not subject to service tax [3]. Additionally, Malaysian citizens who hold a valid Disabled Persons (OKU) card are also given service tax exemption for education services provided by private educational institutions [1].",
+    "cited_titles": [
+      "Service Tax Guide on Private Education Services"
+    ],
+    "seconds": 9.4,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash"
+    ]
+  },
+  {
+    "id": "o01",
+    "question": "What is the GST rate in Singapore?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, tax-related (near-domain).",
+    "tags": [
+      "out_of_scope",
+      "near_domain"
+    ],
+    "http": 200,
+    "status": "not_found",
+    "reason": "llm_declined",
+    "model": "gemini-3.5-flash-lite",
+    "answer": "The provided documents do not cover the GST rate in Singapore.",
+    "cited_titles": [],
+    "seconds": 1.9,
+    "warnings": [
+      "skipped recently failing: gemini-3.8-flash, gemini-3.6-flash, gemini-3.5-flash"
+    ]
+  },
+  {
+    "id": "o02",
+    "question": "How do I calculate real property gains tax when I sell my house?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, Malaysian tax but not in these documents (near-domain).",
+    "tags": [
+      "out_of_scope",
+      "near_domain"
+    ],
+    "http": 200,
+    "status": "not_found",
+    "reason": "below_threshold",
+    "model": null,
+    "answer": "I couldn't find an answer to that in the tax documents I have access to. Try rephrasing, or check the official LHDN / JKDM sources.",
+    "cited_titles": [],
+    "seconds": 0.2,
+    "warnings": []
+  },
+  {
+    "id": "o03",
+    "question": "What is the best recipe for nasi lemak?",
+    "expected_file": null,
+    "answer_notes": "Out of scope, unrelated.",
+    "tags": [
+      "out_of_scope",
+      "far_domain"
+    ],
+    "http": 200,
+    "status": "not_found",
+    "reason": "below_threshold",
+    "model": null,
+    "answer": "I couldn't find an answer to that in the tax documents I have access to. Try rephrasing, or check the official LHDN / JKDM sources.",
+    "cited_titles": [],
+    "seconds": 0.6,
+    "warnings": []
+  }
+]
